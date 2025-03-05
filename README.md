@@ -1,2 +1,1 @@
-# squid.github.io
-squid
+# Squid
